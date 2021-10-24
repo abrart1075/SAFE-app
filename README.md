@@ -1,1 +1,1 @@
-# SAFE-app
+# Introduction to the SAFE-app
